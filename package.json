@@ -1,0 +1,11 @@
+{
+  "name": "wheel",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "author": "kiliannnnn",
+  "license": "ISC",
+  "description": ""
+}
